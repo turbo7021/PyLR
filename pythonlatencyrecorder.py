@@ -90,7 +90,7 @@ Link to source code has been coppied to your clipboard.
 """
         print(infotext)
         self.ids.mainbutton.text = infotext
-        Clipboard.copy('https://github.com/')
+        Clipboard.copy('https://github.com/turbo7021/PyLR')
 
 class AppWindow(App):   
     def build(self):
